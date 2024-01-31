@@ -1,0 +1,13 @@
+{
+	"author": "Nonya",
+
+	"name": "Web Practice",
+	"version": "0.1.0",
+	"main": "main.js",
+	"dependencies": {
+		"koa": "^2.15.0"
+	},
+	"scripts": {
+		"start": "node index.js"
+	}
+}
